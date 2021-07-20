@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+}
+.navbar{
+    width: 20vw;
+}
+
+.content{
+    margin-left: 2rem;
+    width: 80vw;
+}
+
+
+.main-section{
+    margin-left: 2rem;
+}
+
+
+.navbar li{
+    list-style: none;
+}
+
+.navbar li a{
+    text-decoration: none;
+    color: black;
+}
